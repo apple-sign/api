@@ -1,0 +1,38 @@
+[
+  {
+    "scheme": "https://",
+    "land_domain": "dscl.rdvavy.com",
+    "ext": ".app",
+    "status": "200"
+  },
+  {
+    "scheme": "https://",
+    "land_domain": "dscl.rdvavy.com",
+    "ext": ".html",
+    "status": "200"
+  },
+  {
+    "scheme": "https://",
+    "land_domain": "skyq.rdvavy.com",
+    "ext": ".html",
+    "status": "200"
+  },
+    {
+    "scheme": "https://",
+    "land_domain": "skyq.rdvavy.com",
+    "ext": ".app",
+    "status": "200"
+  },
+  {
+    "scheme": "https://",
+    "land_domain": "qzmvmgazbw.com",
+    "ext": ".html",
+    "status": "200"
+  },
+  {
+    "scheme": "https://",
+    "land_domain": "qzmvmgazbw.com",
+    "ext": ".html",
+    "status": "200"
+  }
+]
