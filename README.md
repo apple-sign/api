@@ -49,5 +49,5 @@
 * `size` 每页的数量
 * `current` 当前的页码
 * 公共参数：`account`, `timestamp`, `secret`
-*tets
+
 可参考 JavaSDK 中 [AuthCode.java](https://github.com/apple-sign/JavaSDK/blob/master/src/main/java/org/applesign/api/AuthCode.java) 的实现。
